@@ -1,2 +1,2 @@
-"# desafio_tecnico" 
-# desafio_tecnico
+# desafio_tecnico (Flask + React JS)
+
